@@ -1,7 +1,7 @@
 /*
 Name:Mark Mbugua
 Reg No:CT101/G/26487/25
-Description:Prompt the user to enter the age,height,bank balance 
+Description:Offer or deny loan
 
 */
 
