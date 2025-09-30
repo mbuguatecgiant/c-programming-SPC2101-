@@ -30,18 +30,5 @@ float water_units,water_bill,Total_water_bill;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 return 0;
 }
