@@ -29,30 +29,6 @@ Description:C program to calculate volume and surface area of a cylinder
  
  printf("\n surface area is cm²%.3f",area);
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  return 0;
  
  }
