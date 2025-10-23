@@ -1,6 +1,6 @@
 /* Name:Mark Mbugua 
 Reg no:CT101/G/26487/25
-Date:30 Sept 2025
+Date:23 oct 2025
 Description: calculateElectricbill
 */
 #include <stdio.h>
